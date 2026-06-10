@@ -1,0 +1,30 @@
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background:  #1e1e1e;       /* dark blue */
+  color: #7b2cbf;
+  padding: 20px 25px;
+  width: 1205px;               /* full width */
+  position: relative;
+  bottom: 0;
+  
+}
+
+.footer-container {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;           
+}
+
+.footer p {
+  margin: 0 auto;
+  font-size: 0.9rem;
+  align-items: center;
+}
+
+
+
